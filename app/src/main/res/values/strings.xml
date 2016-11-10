@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Online Gallery</string>
+    <string name="search">Search</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="search_for_an_image">Wanna search for an Image??!!</string>
+
+    <string name="webformat_key" translatable="false">webformat_url</string>
+    <string name="views_key" translatable="false">views</string>
+    <string name="likes_key" translatable="false">likes</string>
+    <string name="tags_key" translatable="false">tags</string>
+    <string name="page_url_key" translatable="false">page_url</string>
+    <string name="favs_key" translatable="false">favs</string>
+    <string name="downloads_key" translatable="false">downloads</string>
+    <string name="user_name_key" translatable="false">user_name</string>
+    <string name="user_image_url_key" translatable="false">user_image_url</string>
+
+    <string name="user_name_label">User Name</string>
+
+    <string name="provided_by">Provided By:</string>
+
+    <string name="save_image">Save</string>
+    <string name="id_key">id</string>
+    <string name="keyword_key">keyword</string>
+    <string name="textview_visibility" />
+
+</resources>
